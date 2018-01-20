@@ -1,6 +1,6 @@
 {
-  "name": "Webhook-echo-sample",
-  "description": "Webhook echo sample",
-  "repository": "https://github.com/SunilSyal/Webhook-and-API.AI-Samples.git",
+  "name": "water-v2",
+  "description": "Webhook sample",
+  "repository": "https://github.com/PAPERPANKS/water-v2.git",
   "keywords": ["api.ai", "dialogflow", "natural language"]
 }
