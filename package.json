@@ -1,12 +1,12 @@
 {
-  "name": "webhook-echo-sample",
+  "name": "water-v2",
   "version": "1.0.0",
-  "description": "Webhook echo sample",
+  "description": "Webhook sample",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Sunil Syal",
+  "author": "Pankaj",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4"
